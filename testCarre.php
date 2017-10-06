@@ -24,7 +24,7 @@
 	echo get_class($c);
 	var_dump($c);
 	*/
-	echo $c;
+	echo $b;
 
     // cette ligne n'est autorisé
     // que si l'attribut x est public
